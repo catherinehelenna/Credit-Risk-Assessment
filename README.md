@@ -27,6 +27,7 @@ Query to fetch data from BigQuery, exploratory data analysis, classification mod
 
 - Among all the classification algorithms used, the logistic regression model has the best performance.
 - Evaluation Metrics => F1-score: 54% and AUC: 0.78.
+- The model improvement program is still not finished yet, so it's still a draft.
 
 ----------------------------------------------------------------------------------------------------------
 Please do let me know if you have feedbacks or improvements for this project by reaching through catherinehelenna888@gmail.com
