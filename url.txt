@@ -1,0 +1,10 @@
+If you are interested in seeing the deployment result, be sure to access this link:
+https://huggingface.co/spaces/catherinehelenna/Credit-Risk-Assessment
+
+References:
+About UMAP (for dimensionality reduction but there should be non-linear relationship between the target and the features.)
+https://umap-learn.readthedocs.io/en/latest/parameters.html
+
+About Gini coefficient and ROC-AUC curve relationship:
+https://yassineelkhal.medium.com/confusion-matrix-auc-and-roc-curve-and-gini-clearly-explained-221788618eb2
+
