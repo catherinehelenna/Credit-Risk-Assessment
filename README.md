@@ -3,7 +3,7 @@
 This project is about development of predictive model to classify bank clients as default or non-default based on their payment behaviors on their credit obligations.
 
 This data was taken from Google BigQuery Public Dataset with table name credit_card_default, where it can be accessed through this link:
-https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
+https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=ml_datasets&t=credit_card_default&page=table
 
 To see the final result of this project (a web app on Hugging Face), you can find it on the link below:
 https://huggingface.co/spaces/catherinehelenna/Credit-Risk-Assessment
